@@ -17,7 +17,6 @@ tipo: você chega com um problema e eu volto com o sistema pronto. site, painel,
   agora: salão-de-beleza + kizo;
   mania: documentar-tudo;     /* a bia do futuro agradece */
   deploy-sem-teste: none;     /* aprendi do jeito difícil */
-  ia: só-quando-precisa;
   combustível: café !important;
 }
 ```
