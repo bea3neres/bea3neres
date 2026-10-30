@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 160" width="440" height="160">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7b2ff7"/><stop offset="1" stop-color="#ff3d81"/></linearGradient>
+    <linearGradient id="s" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7b2ff7" stop-opacity="0"/><stop offset=".5" stop-color="#7b2ff7"/><stop offset="1" stop-color="#ff3d81" stop-opacity="0"/></linearGradient>
+  </defs>
+  <g font-family="'Helvetica Neue', Helvetica, 'Segoe UI', Arial, sans-serif">
+    <rect x="1" y="1" width="438" height="158" rx="14" fill="#0b0d14" stroke="#232838"/>
+    <rect x="40" y="1" width="360" height="2" fill="url(#s)"><animate attributeName="x" values="-120;200;-120" dur="7s" repeatCount="indefinite"/></rect>
+    <rect x="20" y="22" width="56" height="56" rx="14" fill="url(#a)"/>
+    <text x="48" y="59" text-anchor="middle" fill="#0b0d14" font-size="26" font-weight="700">♥</text>
+    <text x="92" y="44" fill="#f4f1fb" font-size="19" font-weight="700">Kizo</text>
+    <rect x="356" y="20" width="64" height="20" rx="10" fill="#3ddc97" fill-opacity=".12" stroke="#3ddc97" stroke-opacity=".5"/>
+    <circle cx="367" cy="30" r="3" fill="#3ddc97"><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="376" y="34" fill="#3ddc97" font-size="10" font-weight="700" letter-spacing="1">NO AR</text>
+    <text x="92" y="78" fill="#9aa3b8" font-size="13.5">Presentes digitais para casais: um link que</text><text x="92" y="97" fill="#9aa3b8" font-size="13.5">abre como um envelope lacrado. 3 idiomas.</text>
+    <rect x="92" y="118" width="72" height="22" rx="11" fill="#161a24" stroke="#2a3040"/><text x="128.0" y="133" text-anchor="middle" fill="#b9c0d4" font-size="11.5">Next.js</text><rect x="172" y="118" width="115" height="22" rx="11" fill="#161a24" stroke="#2a3040"/><text x="229.5" y="133" text-anchor="middle" fill="#b9c0d4" font-size="11.5">Framer Motion</text><rect x="295" y="118" width="50" height="22" rx="11" fill="#161a24" stroke="#2a3040"/><text x="320.0" y="133" text-anchor="middle" fill="#b9c0d4" font-size="11.5">i18n</text>
+  </g>
+</svg>
