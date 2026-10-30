@@ -1,7 +1,7 @@
-<img src="assets/topo.svg" width="100%" alt="Anna Beatriz Neres — full stack" />
+<img src="assets/topo.svg" width="100%" alt="Beatriz Neres — desenvolvedora full stack" />
 
 <p align="center">
-  <img src="assets/terminal.svg" width="92%" alt="bea-3: sistema online" />
+  <img src="assets/terminal.svg" width="92%" alt="bea3: sistema online" />
 </p>
 
 ### `#whoami`
